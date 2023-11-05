@@ -98,8 +98,8 @@ const Header = () => {
                   <i class="ri-time-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Sunday to Friday</h4>
-                  <h6>10am - 7pm</h6>
+                  <h4>24 Hour Service</h4>
+                  {/* <h6></h6> */}
                 </div>
               </div>
             </Col>
